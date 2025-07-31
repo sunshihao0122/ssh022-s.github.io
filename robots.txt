@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ssh022-s.github.io/sitemap.xml

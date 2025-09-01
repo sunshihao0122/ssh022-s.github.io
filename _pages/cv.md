@@ -11,4 +11,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 ---
 
 
-<iframe src="https://ssh022-s.github.io/assets/pdf/ShihaoSun_CV.pdf" width="100%" height="1200px" style="border:none;"></iframe>
+<iframe src="https://sunshihao0122.github.io/assets/pdf/CV-sunshihao-en.pdf" width="100%" height="1200px" style="border:none;"></iframe>
